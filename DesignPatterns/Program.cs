@@ -6,7 +6,6 @@ namespace MehrdadTajedini.DesignPatterns
     {
         static void Main(string[] args)
         {
-            
         }
     }
 }
